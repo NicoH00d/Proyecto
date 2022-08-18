@@ -7,4 +7,5 @@ Este programa busca ofrecer ayuda para resolver una gran variedad de problemas m
 1. preguntar al usuario que tipo de problema desea resolver
 2. identificar la cantidad de datos requeridos para resolver el problema
 3. solicitar al usuario ingresar datos para la resolucion del problema
-4. devolver resultado al usuario como un numero entero o flotante  
+4. devolver resultado al usuario como un numero entero o flotante 
+5. repetir algoritmo. 
