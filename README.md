@@ -1,10 +1,10 @@
-# Proyecto Editor matematico
+# Proyecto Calculadora geométrica y aritmética
 ### Contexto
 Las matematicas avanzadas pueden llegar a ser un problema para algunas personas debido a que suelen ser muy confusas, la calculadora se invento para dar solucion a este problema. Una calculadora es un dispositivo/programa el cual se utiliza para realizar cálculos matematicos de una manera sencilla y eficiente. Como ya tenemos bien claro, existen una infinidad de problemas matematicos y cada uno con su cierto nivel de dificultad, lo cual da existencia a varios tipos de calculadoras avanzadas que pueden resolver más alla de una simple multiplicación o divisón.
-Este programa busca ofrecer ayuda para resolver una gran variedad de problemas matemáticos solicitandole al usuario ingresar los datos requeridos y lo que desee hacer con ellos siempre y cuando esten dentro del rango de posibilidades del programa, para al final mostrar una solución. Esto es interesante ya que una calculadora promedio no obtiene el area de un círculo con un simple comando.
+Este programa busca ofrecer ayuda para resolver  problemas matemáticos en el área de la geometria y de la aritmética solicitandole al usuario ingresar los datos requeridos y lo que desee hacer con ellos siempre y cuando esten dentro del rango de posibilidades del programa, para al final mostrar una solución. Aprenderse las formulas para obtener areas o volumenes de formas suele ser algo estresante, por eso decidi hacer mi proyecto sobre esto, ya que se me hace interesante crear un programa como repositorio de formulas para utilizarlas cada que las requieras sin tener que aprendertelas.
 
 #### Algoritmo
-1. Mostrar opciones: problemas geometricos, problemas aritmeticos, problemas algebraicos.
+1. Mostrar opciones: problemas geometricos, problemas aritmeticos.
 2. Si el usuario escoge problemas geometricos
 3.    Mostrar opciones: area circulo, area cuadrado, area triangulo, area rombo, volumen cilindro, volumen cubo, volumen piramide, volumen esfera.
 4.    Si el usuario escoge resolver area para un circulo, entonces solicitar radio como numero flotante.
