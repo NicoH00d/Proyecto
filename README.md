@@ -5,8 +5,8 @@ Este programa busca ofrecer ayuda para resolver una gran variedad de problemas m
 
 #### Algoritmo
 1. Mostrar opciones: problemas geometricos, problemas aritmeticos, problemas algebraicos.
-2. Si es usuario escoge problemas geometricos
-3.    Mostrar opciones: area circulo, area cuadrado, area triangulo, area rombo, volumen cilindro, volumen cubo, volumen piramide.
+2. Si el usuario escoge problemas geometricos
+3.    Mostrar opciones: area circulo, area cuadrado, area triangulo, area rombo, volumen cilindro, volumen cubo, volumen piramide, volumen esfera.
 4.    Si el usuario escoge resolver area para un circulo, entonces solicitar radio como numero flotante.
 5.    aplicar formula para area circulo con el dato del usuario
 6.    devolver resultado
@@ -20,14 +20,18 @@ Este programa busca ofrecer ayuda para resolver una gran variedad de problemas m
 14.   aplicar formula para are del rombo con los datos del usuario
 15.   devolver resultado
 16.   Si el usuario escoge resolver volumen cilindro, entonces solicitar datos como numero flotante.
-5.    aplicar formula para volumen cilindro con los datos del usuario
-6.    devolver resultado
-7.    si el usuario escoge resovler volumen cubo, solicitar lados como numero flotante.
-8.    aplicar formula para volumen cubo con los datos del usuario
-9.    devolver resultado
-10.   Si el usuario escoge resolver volumen piramide, solicitar lados como numero flotante.
-11.   aplicar formula para volumen piramide con los datos del usuario
-12.   devolver resultado
-13.   Si el usuario escoge resovler area para un rombo, solicitar lados como numero flotante.
-14.   aplicar formula para are del rombo con los datos del usuario
-15.   devolver resultado
+17.   aplicar formula para volumen cilindro con los datos del usuario
+18.   devolver resultado
+19.   si el usuario escoge resovler volumen cubo, solicitar lados como numero flotante.
+20.   aplicar formula para volumen cubo con los datos del usuario
+21.   devolver resultado
+22.   Si el usuario escoge resolver volumen piramide, solicitar lados como numero flotante.
+23.   aplicar formula para volumen piramide con los datos del usuario
+24.   devolver resultado
+25.   Si el usuario escoge resovler area para un rombo, solicitar lados como numero flotante.
+26.   aplicar formula para are del rombo con los datos del usuario
+27.   devolver resultado
+28.   Si el usuario escoge resolver volumen esfera, entonces solicitar datos como numero flotante.
+29.   aplicar formula para volumen esfera con los datos del usuario
+30.   devolver resultado 
+31.   
