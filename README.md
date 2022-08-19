@@ -4,8 +4,30 @@ Las matematicas avanzadas pueden llegar a ser un problema para algunas personas 
 Este programa busca ofrecer ayuda para resolver una gran variedad de problemas matemáticos solicitandole al usuario ingresar los datos requeridos y lo que desee hacer con ellos siempre y cuando esten dentro del rango de posibilidades del programa, para al final mostrar una solución. Esto es interesante ya que una calculadora promedio no obtiene el area de un círculo con un simple comando.
 
 #### Algoritmo
-1. preguntar al usuario que tipo de problema desea resolver
-2. identificar la cantidad de datos requeridos para resolver el problema
-3. solicitar al usuario ingresar datos para la resolucion del problema
-4. devolver resultado al usuario como un numero entero o flotante 
-5. repetir algoritmo. 
+1. Mostrar opciones: problemas geometricos, problemas aritmeticos, problemas algebraicos.
+2. Si es usuario escoge problemas geometricos
+3.    Mostrar opciones: area circulo, area cuadrado, area triangulo, area rombo, volumen cilindro, volumen cubo, volumen piramide.
+4.    Si el usuario escoge resolver area para un circulo, entonces solicitar radio como numero flotante.
+5.    aplicar formula para area circulo con el dato del usuario
+6.    devolver resultado
+7.    si el usuario escoge resovler area para un cuadrado, solicitar lados como numero flotante.
+8.    aplicar formula para area del cuadrado con los datos del usuario
+9.    devolver resultado
+10.   Si el usuario escoge resolver area para un triangulo, solicitar lados como numero flotante.
+11.   aplicar formula para area del triangulo con los datos del usuario
+12.   devolver resultado
+13.   Si el usuario escoge resovler area para un rombo, solicitar lados como numero flotante.
+14.   aplicar formula para are del rombo con los datos del usuario
+15.   devolver resultado
+16.   Si el usuario escoge resolver volumen cilindro, entonces solicitar datos como numero flotante.
+5.    aplicar formula para volumen cilindro con los datos del usuario
+6.    devolver resultado
+7.    si el usuario escoge resovler volumen cubo, solicitar lados como numero flotante.
+8.    aplicar formula para volumen cubo con los datos del usuario
+9.    devolver resultado
+10.   Si el usuario escoge resolver volumen piramide, solicitar lados como numero flotante.
+11.   aplicar formula para volumen piramide con los datos del usuario
+12.   devolver resultado
+13.   Si el usuario escoge resovler area para un rombo, solicitar lados como numero flotante.
+14.   aplicar formula para are del rombo con los datos del usuario
+15.   devolver resultado
