@@ -50,6 +50,6 @@ Este programa busca ofrecer ayuda para resolver  problemas matemáticos en el á
 44.   si el usuario escoge division, entonces dividir datos
 45.   si el usuario escoge raiz, entonces sacar raiz indicada por el usuario.
 46.   si el usuario escoge tabla de multiplicar, entonces solicitar rango
-47.     desplegar tabla de multiplicar sobre los datos del usuario dentro del rango establecido.
+47.    desplegar tabla de multiplicar sobre los datos del usuario dentro del rango establecido.
 48. Repetir algoritmo
 49.   
