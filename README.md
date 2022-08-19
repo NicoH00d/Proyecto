@@ -28,10 +28,7 @@ Este programa busca ofrecer ayuda para resolver una gran variedad de problemas m
 22.   Si el usuario escoge resolver volumen piramide, solicitar lados como numero flotante.
 23.   aplicar formula para volumen piramide con los datos del usuario
 24.   devolver resultado
-25.   Si el usuario escoge resovler area para un rombo, solicitar lados como numero flotante.
-26.   aplicar formula para are del rombo con los datos del usuario
-27.   devolver resultado
-28.   Si el usuario escoge resolver volumen esfera, entonces solicitar datos como numero flotante.
-29.   aplicar formula para volumen esfera con los datos del usuario
-30.   devolver resultado 
-31.   
+25.   Si el usuario escoge resolver volumen esfera, entonces solicitar datos como numero flotante.
+26.   aplicar formula para volumen esfera con los datos del usuario
+27.   devolver resultado 
+28.   
