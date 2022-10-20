@@ -1,0 +1,30 @@
+===Primera entrega===
+
+Se elaboro la calculadora capaz de resolver problemas aritmeticos y gemetricos mediante la implementación de operadores aritméticos,
+estructuras condicionales, ciclos y funciones. Incorporando el avance 1, 2, 3, 4, 5.
+
+No se requirió corregir errores.
+
+
+
+===Actualización (avance 6)===
+
+Se añadio una función para implementar el uso de listas para promediar la cantidad de valores introducidos por el usuario.
+Por el otro lado, la interfaz fué modificada para verse mejor.
+
+El codigo principal fue convertido en una funcion principal para poder realizar ciclos con el.
+
+No se requirió corregir errores.
+
+
+===Actualización (avance 7)===
+
+
+Se añadio una función con la implementación de listas anidadas para trabajar con vectores, la cual sigue en proceso (beta)
+debido a que cuenta con solo una función actualmente la cual es producto punto.
+
+No se requirió corregir errores.
+ 
+
+
+
